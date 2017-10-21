@@ -9,4 +9,4 @@ for [Machine Learning Foundation Nanodegree](https://in.udacity.com/course/machi
 4. Jupyter
 
 ## Report
-Go to [this link](http://htmlpreview.github.io/?https://github.com/vikramsjn/Investigate-Titanic-Dataset/blob/master/Analysis%2Bof%2BTitanic%2BDataset.html) to see the html version of notebook if you do not have jupyter installed.
+Go to [this link](http://htmlpreview.github.io/?https://github.com/vikramsjn/Investigate-Titanic-Dataset/blob/master/Analysis%20of%20Titanic%20Dataset.html) to see the html version of notebook if you do not have jupyter installed.
